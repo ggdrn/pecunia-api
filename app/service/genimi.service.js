@@ -98,7 +98,7 @@ const processaConta = async (payload, imageFormat) => {
                 PEDIDO:Quero uma estrutura válida de JSON sem o texto marcando 'json' na resposta, Caso você não consiga processar todos os dados, retorne o json de exemplo com todos os campos nulos. Os seguintes dados para serem analisados:
                 \n
                 ${JSON.stringify(payload)}
-                ${imageFormat ? 'analise a imagem em anexo para descobrir as informações solicitadas' : ''}
+                ${imageFormat ? 'analise a imagem em anexo para agregar as informações solicitadas e obter os dados para montar o json' : ''}
                 `
         },
 

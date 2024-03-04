@@ -20,14 +20,12 @@
     "@google-cloud/local-auth": "^2.1.0",
     "@google/generative-ai": "^0.2.1",
     "@googleapis/docs": "^3.0.0",
-    "@pspdfkit/nodejs": "^0.0.4",
     "axios": "^1.6.7",
     "bcrypt": "^5.1.1",
     "cors": "^2.8.5",
     "create-vite-express": "^0.0.5",
     "dotenv": "^16.0.3",
     "googleapis": "^105.0.0",
-    "pdf2pic": "^3.1.1",
     "vite-express": "^0.4.2"
   },
   "devDependencies": {
