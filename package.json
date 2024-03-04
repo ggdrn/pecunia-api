@@ -1,0 +1,49 @@
+{
+  "name": "alertauni-api",
+  "version": "1.0.0",
+  "description": " Node.js Rest Apis with Express, Sequelize & MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon -x 'node server.js || touch server.js'"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api"
+  ],
+  "author": "ggdrn",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "@google/generative-ai": "^0.2.1",
+    "@googleapis/docs": "^3.0.0",
+    "axios": "^1.6.7",
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "create-vite-express": "^0.0.5",
+    "dotenv": "^16.0.3",
+    "googleapis": "^105.0.0",
+    "vite-express": "^0.4.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/register": "^7.21.0",
+    "babel-loader": "^9.1.2",
+    "concurrently": "^7.6.0",
+    "cross-env": "^7.0.3",
+    "express": "^4.18.2",
+    "file-loader": "^6.2.0",
+    "html-loader": "^4.2.0",
+    "html-webpack-plugin": "^5.5.0",
+    "nodemon": "^2.0.22",
+    "openurl": "^1.1.1",
+    "regenerator-runtime": "^0.13.11",
+    "rimraf": "^4.4.0",
+    "style-loader": "^3.3.2",
+    "vite": "^4.2.0"
+  }
+}

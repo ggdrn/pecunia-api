@@ -1,0 +1,16 @@
+{
+    "data" : [ 
+        {
+            "titulo": "Discente"
+        },    
+        {
+            "titulo": "Docente"
+        },    
+        {
+            "titulo": "Concursado"
+        }, 
+        {
+            "titulo": "Tercerizado"
+        }
+] 
+}

@@ -1,0 +1,11 @@
+{
+    "descricao": "descricao teste",
+    "classificacao": "Teste",
+    "data_ocorrencia": "2023-01-01",
+    "local": "Campus Rural - Perto do p1",
+    "latitude": -22.7819,
+    "longitude": 43.6855,
+    "natureza_uid": "6e85d38a-a7c6-48ca-a175-797e369eb791",
+    "pessoa_uid": "c55d9cd8-f6e6-436e-9b86-1fa965f20bf2",
+    "item_uid": "a0bcb3e9-ffc2-4aee-834f-a1297edbc8d8"
+}
